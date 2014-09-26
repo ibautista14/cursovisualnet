@@ -1,0 +1,5 @@
+C:\Users\LAB104BPC10\Documents\Projects\AppSumaDosNumeros\AppSumaDosNumeros\bin\Debug\AppSumaDosNumeros.exe
+C:\Users\LAB104BPC10\Documents\Projects\AppSumaDosNumeros\AppSumaDosNumeros\bin\Debug\AppSumaDosNumeros.pdb
+C:\Users\LAB104BPC10\Documents\Projects\AppSumaDosNumeros\AppSumaDosNumeros\obj\x86\Debug\AppSumaDosNumeros.csprojResolveAssemblyReference.cache
+C:\Users\LAB104BPC10\Documents\Projects\AppSumaDosNumeros\AppSumaDosNumeros\obj\x86\Debug\AppSumaDosNumeros.exe
+C:\Users\LAB104BPC10\Documents\Projects\AppSumaDosNumeros\AppSumaDosNumeros\obj\x86\Debug\AppSumaDosNumeros.pdb

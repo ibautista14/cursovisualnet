@@ -1,0 +1,4 @@
+C:\Users\LAB104BPC10\Documents\Projects\AppDosNumeros\AppDosNumeros\bin\Debug\AppDosNumeros.exe
+C:\Users\LAB104BPC10\Documents\Projects\AppDosNumeros\AppDosNumeros\bin\Debug\AppDosNumeros.pdb
+C:\Users\LAB104BPC10\Documents\Projects\AppDosNumeros\AppDosNumeros\obj\x86\Debug\AppDosNumeros.exe
+C:\Users\LAB104BPC10\Documents\Projects\AppDosNumeros\AppDosNumeros\obj\x86\Debug\AppDosNumeros.pdb

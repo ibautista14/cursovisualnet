@@ -1,0 +1,4 @@
+C:\Users\LAB104BPC10\Documents\Projects\AppSumaPromedio2\AppSumaPromedio2\bin\Debug\AppSumaPromedio2.exe
+C:\Users\LAB104BPC10\Documents\Projects\AppSumaPromedio2\AppSumaPromedio2\bin\Debug\AppSumaPromedio2.pdb
+C:\Users\LAB104BPC10\Documents\Projects\AppSumaPromedio2\AppSumaPromedio2\obj\x86\Debug\AppSumaPromedio2.exe
+C:\Users\LAB104BPC10\Documents\Projects\AppSumaPromedio2\AppSumaPromedio2\obj\x86\Debug\AppSumaPromedio2.pdb
